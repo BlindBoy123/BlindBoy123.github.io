@@ -4,6 +4,6 @@
 
 ***
 
-<h1>EDUCATION</h1>
-> National Senior Cerificate
-> Westerford High School
+## EDUCATION
+a very <span style='color: red;'>long</span> sentence.
+--> Westerford High School
