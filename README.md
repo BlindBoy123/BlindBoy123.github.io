@@ -1,5 +1,9 @@
-# NAME & SURNAME
+# ROSS BARTH
 
-<p>This is a test paragraph called: paragraph 1</p>
+<p>🎓 Applications Development Student | 📞 081 039 0361 | 📧 220612986@mycput.ac.za </p>
 
-Alternatively, I can write text with HTML tags, for example.
+***
+
+<h1>EDUCATION</h1>
+> <h1>National Senior Cerificate</h1>
+Westerford High School
