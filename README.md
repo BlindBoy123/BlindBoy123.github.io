@@ -5,5 +5,5 @@
 ***
 
 <h1>EDUCATION</h1>
-> <h1>National Senior Cerificate</h1>
-Westerford High School
+> National Senior Cerificate
+> Westerford High School
