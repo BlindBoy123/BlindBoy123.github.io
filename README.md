@@ -1,5 +1,5 @@
-# DIGITAL PORTFOLIO
-
+<h1 style="text-align:center">DIGITAL PORTFOLIO</h1>
+  
   🎓 Applications Development Student  | 📞 081 039 0361 | 
   📧 220612986@mycput.ac.za 
   
@@ -47,6 +47,7 @@ During my time as a Sales Consultant for iStore South Africa, many customers wou
 
 ### - Unethical Practices
 During the last year, the company, McDonalds, became my first occasion where I acted upon unethical practices. News released that tied the company to funding missions in war regions. As a result, I did my part the only way I could, by boycotting the company altogether. 
+
 ***
 <h2 style="text-align:center">EVIDENCE OF LEARNING</h2>
 
