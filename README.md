@@ -1,4 +1,4 @@
-<h1 style="text-align:center">DIGITAL PORTFOLIO</h1>
+<h1 style="text-align:center;font-familiy:Aquire">DIGITAL PORTFOLIO</h1>
   
   🎓 Applications Development Student  | 📞 081 039 0361 | 
   📧 220612986@mycput.ac.za 
