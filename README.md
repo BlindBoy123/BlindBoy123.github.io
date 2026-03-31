@@ -1,6 +1,8 @@
 # DIGITAL PORTFOLIO
-🎓 Applications Development Student  | 📞 081 039 0361 | 
+<pre>
+  🎓 Applications Development Student  | 📞 081 039 0361 | 
   📧 220612986@mycput.ac.za 
+</pre>
 
 ***
 
