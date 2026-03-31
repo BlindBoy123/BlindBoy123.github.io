@@ -48,16 +48,16 @@ During my time as a Sales Consultant for iStore South Africa, many customers wou
 During the last year, the company, McDonalds, became my first occasion where I acted upon unethical practices. News released that tied the company to funding missions in war regions. As a result, I did my part the only way I could, by boycotting the company altogether. 
 ***
 ##  EVIDENCE OF LEARNING
-### CURRICULUM VITA
+###           CURRICULUM VITA
 <a href="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf" target="_blank">PDF.</a>
 
-<object data="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf" type="application/pdf" width="100%" height="500px"> Unable to open PDF.<a href="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf">Download here</a></object>
+<object data="Ross_CV__Copy_.pdf" type="application/pdf" width="100%" height="500px"> Unable to open PDF.<a href="Ross_CV__Copy_.pdf">Download here</a></object>
 
 
-### CERTIFICATE OF CYBER SECURITY
+###         CERTIFICATE OF CYBER SECURITY
 <object data="cput nq level 5.pdf" type="application/pdf" width="100%" height="500px"> Unable to open PDF.<a href="cput nq level 5.pdf">Download here</a></object>
 
-### MOCK INTERVIEW VIDEO
+###         MOCK INTERVIEW VIDEO
 <video width="320" height="240" controls loop="" muted="" autoplay="">
   <source src="https://github.com/BlindBoy123/BlindBoy123.github.io/raw/refs/heads/main/Final%205%20final.mp4">
 </video>
