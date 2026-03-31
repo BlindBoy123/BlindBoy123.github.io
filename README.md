@@ -51,8 +51,11 @@ During the last year, the company, McDonalds, became my first occasion where I a
 ### CURRICULUM VITA
 <a href="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf" target="_blank">PDF.</a>
 
+<object data="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf" type="application/pdf" width="100%" height="500px"> Unable to open PDF.<a href="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf">Download here</a></object>
+
+
 ### CERTIFICATE OF CYBER SECURITY
-<object data="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf" type="application/pdf" width="100%" height="500px"> Unable to open PDF.<a href="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf">Download here</a>
+<object data="cput nq level 5.pdf" type="application/pdf" width="100%" height="500px"> Unable to open PDF.<a href="cput nq level 5.pdf">Download here</a></object>
 
 ### MOCK INTERVIEW VIDEO
 <video width="320" height="240" controls loop="" muted="" autoplay="">
