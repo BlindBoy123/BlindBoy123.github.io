@@ -26,11 +26,25 @@ After learning about the Markdown language, the challenge was simple, I needed t
 ### Task
 When recording a mock interview video, one needs to be able to read off a script and not have any distractions during the recording. Once the script was written and the I was satisfied with the video, It was then about using Markdown language to upload the video, and have it working on the file to show evidence of the understanding of Markdown language. 
 
-## Action
+### Action
 I decided to use my personal cellular device to record the video as it had the necessary quality of picture, and I had to use free video editing software to stitch multiple clippings together, as I was uninterested in paying for one task. In regards to the video playing on the file, research online provided enough information to help me.
 
 ### Result
 As a result, the Mock Interview was properly recorded and successfully put onto the file in working condition, so that either the video plays automatically or it can be played on command. I also learnt about quality and consistency, as having the stitched clips be of same quality as well as having the video play on the file, and not be a simple downloadable link. 
+
+
+## GITHUB PAGES: REFLECTION
+### Situation
+Github Pages is a new platform on which to use. Besides the fact that one had never used a platform similar to that, the other challenge is to navigate the platform in order to use it thoroughly. 
+
+### Task
+More research was conducted to further understand the Github Pages platform while reviewing how others got on with using it. Videos, forums and sites that spoke about the pros and cons while suggessting how it can be used to one's benefit. 
+
+### Action
+After conducting lenthy research about how to use the platform, I then specified how I might use the platfomr in order to satisfy the assignment requirements, including the aforementioned reflections. I spent time learning how to use Markdown language to code specific documents like the CV and Mock Interview Video, as well as personlaise it to give it more character than a simply platform style. 
+
+### Result
+The platforms exceeded my expectation, that being it would be difficult to manage and hard to understand. Github Pages made it simple, once i understood, to use their platform for my requierments 
 
 Important interpersonal skills that I have collected over the years:
 > - To being understanding towards each individual's story
