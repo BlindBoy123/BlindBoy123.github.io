@@ -5,12 +5,19 @@
   
 ***
 
-## CV 
-### REFLECTION
-Situation - Learning to write a new langauge requires initial research in understanding what to use and how to use it, which in itself requires practice and 										time 
-Task -  The main goal was to use Markdown language to not only show evidence of the presence of the language, but to also have a working version of my CV 						present on the file
-Action - What actions taken were that, a lot of research was conducted around the use of Markdown language, via videos, forums, articles, etc. Afterwards, I 							needed to figure out how to use the language to write a working CV onto my file. 
-Result - The outcome was to put the entire CV as an interactive document onto my file, as well as a download link. This taught me about the ways in which to 							use specific resources to my advantage.  
+## CV WRITING: REFLECTION
+### Situation
+Learning to write a new langauge requires initial research in understanding what to use and how to use it, which in itself requires practice time 
+
+
+### Task 
+The main goal was to use Markdown language to not only show evidence of the presence of the language, but to also have a working version of my CV present on the file
+
+### Action
+What actions taken were that, a lot of research was conducted around the use of Markdown language, via videos, forums, articles, etc. Afterwards, I needed to figure out how to use the language to write a working CV onto my file. 
+
+### Result
+The outcome was to put the entire CV as an interactive document onto my file, as well as a download link. This taught me about the ways in which to use specific resources to my advantage.  
 
 ### - Interpersonal Skills
 Important interpersonal skills that I have collected over the years:
