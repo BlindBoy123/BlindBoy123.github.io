@@ -17,9 +17,14 @@ The main goal was to use Markdown language to not only show evidence of the pres
 What actions taken were that, a lot of research was conducted around the use of Markdown language, via videos, forums, articles, etc. Afterwards, I needed to figure out how to use the language to write a working CV onto my file. 
 
 ### Result
-The outcome was to put the entire CV as an interactive document onto my file, as well as a download link. This taught me about the ways in which to use specific resources to my advantage.  
+The outcome was to put the entire CV as an interactive document onto my file, as well as a download link. This taught me about the ways in which to use specific resources to my 
 
-### - Interpersonal Skills
+## MOCK INTERVIEW: REFLECTION
+### Situation
+After learning about the Markdown language, the challenge was simple, I needed to create a script and record a video, as well as upload it onto the site while being able to play on command. 
+
+### 
+
 Important interpersonal skills that I have collected over the years:
 > - To being understanding towards each individual's story
 > - Accepting different cultures, beliefs and backgrounds
