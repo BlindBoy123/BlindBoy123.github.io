@@ -49,7 +49,8 @@ The platforms exceeded my expectation, that being it would be difficult to manag
 <h2 style="text-align:center">WIL PROJECTS: QAMS - QR CODE ATTENDANCE MANAGEMENT SYSTEM
 
 
-<h3 style="text-align:center">EVIDENCE OF LEARNING</h3>
+
+<h2 style="text-align:center">EVIDENCE OF LEARNING</h2>
 
 ### CURRICULUM VITA
 <a href="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf" target="_blank">PDF.</a>
