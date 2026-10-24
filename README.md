@@ -46,7 +46,10 @@ After conducting lenthy research about how to use the platform, I then specified
 ### Result
 The platforms exceeded my expectation, that being it would be difficult to manage or hard to understand. Github Pages made it simple, once i understood it, to use their platform for my requierments, as well as experiment for creativity and personalisation. 
 ***
-<h2 style="text-align:center">EVIDENCE OF LEARNING</h2>
+<h2 style="text-align:center">WIL PROJECTS: QAMS - QR CODE ATTENDANCE MANAGEMENT SYSTEM
+
+
+<h3 style="text-align:center">EVIDENCE OF LEARNING</h3>
 
 ### CURRICULUM VITA
 <a href="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf" target="_blank">PDF.</a>
