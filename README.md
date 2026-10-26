@@ -44,8 +44,9 @@ More research was conducted to further understand the Github Pages platform whil
 After conducting lengthy research about how to use the platform, I then specified how I might use the platform in order to satisfy the assignment requirements, including the aforementioned reflections. I spent time learning how to use Markdown language to code specific documents like the CV and Mock Interview Video, as well as personalise it to give it more character than a simply platform style. 
 
 ### Result
-The platforms exceeded my expectation, that being it would be difficult to manage or hard to understand. Github Pages made it simple, once i understood it, to use their platform for my requierements, as well as experiment for creativity and personalisation. 
+The platforms exceeded my expectation, that being it would be difficult to manage or hard to understand. Github Pages made it simple, once i understood it, to use their platform for my requirements, as well as experiment for creativity and personalisation. 
 ***
+
 <h2 style="text-align:center">WIL PROJECTS: QAMS - QR CODE ATTENDANCE MANAGEMENT SYSTEM
   
 ### AGILE TEAM CHARTER
