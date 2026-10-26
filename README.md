@@ -6,44 +6,44 @@
 ***
 
 ## CV WRITING: REFLECTION
-### Situation
+#### Situation
 Learning to write a new language requires initial research in understanding what to use and how to use it, which in itself requires practice time 
 
 
-### Task 
+#### Task 
 The main goal was to use Markdown language to not only show evidence of the presence of the language, but to also have a working version of my CV present on the file
 
-### Action
+#### Action
 What actions taken were that, a lot of research was conducted around the use of Markdown language, via videos, forums, articles, etc. Afterwards, I needed to figure out how to use the language to write a working CV onto my file. 
 
-### Result
+#### Result
 The outcome was to put the entire CV as an interactive document onto my file, as well as a download link. This taught me about the ways in which to use specific resources to my 
 
 ## MOCK INTERVIEW: REFLECTION
-### Situation
+#### Situation
 After learning about the Markdown language, the challenge was simple, I needed to create a script and record a video, as well as upload it onto the site while being able to play on command. 
 
-### Task
+#### Task
 When recording a mock interview video, one needs to be able to read off a script and not have any distractions during the recording. Once the script was written and the I was satisfied with the video, It was then about using Markdown language to upload the video, and have it working on the file to show evidence of the understanding of Markdown language. 
 
-### Action
+#### Action
 I decided to use my personal cellular device to record the video as it had the necessary quality of picture, and I had to use free video editing software to stitch multiple clippings together, as I was uninterested in paying for one task. In regards to the video playing on the file, research online provided enough information to help me.
 
-### Result
+#### Result
 As a result, the Mock Interview was properly recorded and successfully put onto the file in working condition, so that either the video plays automatically or it can be played on command. I also learnt about quality and consistency, as having the stitched clips be of same quality as well as having the video play on the file, and not be a simple downloadable link. 
 
 
 ## GITHUB PAGES: REFLECTION
-### Situation
+#### Situation
 Github Pages is a new platform on which to use. Besides the fact that one had never used a platform similar to that, the other challenge is to navigate the platform in order to use it thoroughly. 
 
-### Task
+#### Task
 More research was conducted to further understand the Github Pages platform while reviewing how others got on with using it. Videos, forums and sites that spoke about the pros and cons while suggesting how it can be used to one's benefit. 
 
-### Action
+#### Action
 After conducting lengthy research about how to use the platform, I then specified how I might use the platform in order to satisfy the assignment requirements, including the aforementioned reflections. I spent time learning how to use Markdown language to code specific documents like the CV and Mock Interview Video, as well as personalise it to give it more character than a simply platform style. 
 
-### Result
+#### Result
 The platforms exceeded my expectation, that being it would be difficult to manage or hard to understand. Github Pages made it simple, once i understood it, to use their platform for my requirements, as well as experiment for creativity and personalisation. 
 ***
 
@@ -54,8 +54,15 @@ As one of the developers, some of my key responsibilities included the design & 
 
 ### USER STORIES & TASKS
 #### Reflection
-The user stories were among the easier to create, seeing that the use for the QR code is relatively simple. For a lecturer, we took on creating the class session so a QR code is generated for students, 
+The user stories were among the easier to create, seeing that the use for the QR code is relatively simple. For a lecturer, we took on creating the class session so a QR code is generated for students, and we had a great deal of struggling and learning via trial and error, as few of the learning material supplied contained information about QR Codes and designing code around it. 
 
+### AGILE LOGBOOK
+#### Reflection
+The use of the Agile Logbook easily was the most troubling to maintain, personally. As our first semester concluded, we would be working from home while complete our assignments. As the weeks passed, I found the Agile Logbook less useful, and rather a document that was provided for proof of engagement. More of the communication between students/colleagues happened informally on WhatsApp, and meetings with Microsoft Teams. Overall, with better time management and work management, the Agile Logbook can become a more powerful tool.
+
+### BUSINESS CASE
+#### Reflection
+There is a case to be made about the document: Business Case. The team discussed and agreed upon conditions such as cost, solutions, problems, and risk & benefits, earlier in the year. Firstly, the problems were evident for our system as attendance was a concern for students this year, as well as the unforeseen shutdown of academic activities which further halted any progression. The QR Attendance System would simplify the process of attendance for classes, both physical and remote. Secondly, costs for the design & implementation of the system was a consistent drawback, as much of the resources supplied was directed towards the design of code & maintenance of code, instead of generating QR Codes, where majority of those avenues forced the use of free trials, or free-to-use services/products. These aforementioned are limited in use, and always took the team unexpectedly. Finally, with the risks & benefits, the aforementioned shutdown created opportunity for students to share codes remotely, while users (lecturers) did not adopt the use during the discomforted recess, however the team acknowledged and proceeded in order to learn from the experience.  
 
 ## EVIDENCE OF LEARNING
 
@@ -74,5 +81,11 @@ The user stories were among the easier to create, seeing that the use for the QR
 </video>
 
 ### AGILE TEAM CHARTER
-<a href="PRP_Team_Charter.pdf" target="blank">DOCX</a>
-<object data="PRP_Team_Charter.pdf" type="application/docx" width="100%" height="500ps">Unable to open DOCX</object>
+<object data="PRP_Team_Charter.pdf" type="application/pdf" width="100%" height="500px">Unable to open PDF</object>
+<a href="PRP_Team_Charter.pdf" target="blank">PDF</a>
+
+### AGILE LOGBOOK 
+<object data="agile logbook 20-07.pdf" type="application/pdf" width="100%" height="500px">Unable to open PDF</object> <a href="agile logbook 20-07.pdf" target="blank">PDF</a>
+
+### BUSINESS CASE
+<object data="QR_Attendance_Business_Case-1.pdf" type="application/pdf" width="100%" height="500px">Unable to open PDF</object> <a href="QR_Attendance_Business_Case-1.pdf" target="blank"></a>
