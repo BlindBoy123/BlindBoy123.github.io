@@ -47,6 +47,7 @@ After conducting lenthy research about how to use the platform, I then specified
 The platforms exceeded my expectation, that being it would be difficult to manage or hard to understand. Github Pages made it simple, once i understood it, to use their platform for my requierments, as well as experiment for creativity and personalisation. 
 ***
 <h2 style="text-align:center">WIL PROJECTS: QAMS - QR CODE ATTENDANCE MANAGEMENT SYSTEM
+  
 ### AGILE TEAM CHARTER
 #### Reflection
 As one of the developers, some of my key responsibilities included the design & implementation of clean & maintainable code for the project. The challenging aspect of having a QR code being the main focus of the project, is the struggling of understanding how to design code and implement features around it, as well as learning about the design while completing the project. 
