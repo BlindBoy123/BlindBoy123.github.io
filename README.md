@@ -51,7 +51,9 @@ The platforms exceeded my expectation, that being it would be difficult to manag
 #### Reflection
 As one of the developers, some of my key responsibilities included the design & implementation of clean & maintainable code for the project. The challenging aspect of having a QR code being the main focus of the project, is the struggling of understanding how to design code and implement features around it, as well as learning about the design while completing the project. 
 
-### PROJECT 
+### USER STORIES & TASKS
+#### Reflection
+The user stories were among the easier to create, seeing that the use for the QR code is relatively simple. For a lecturer, we took on creating the class session so a QR code is generated for students, 
 
 
 <h2 style="text-align:center">EVIDENCE OF LEARNING</h2>
