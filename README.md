@@ -7,7 +7,7 @@
 
 ## CV WRITING: REFLECTION
 ### Situation
-Learning to write a new langauge requires initial research in understanding what to use and how to use it, which in itself requires practice time 
+Learning to write a new language requires initial research in understanding what to use and how to use it, which in itself requires practice time 
 
 
 ### Task 
@@ -38,13 +38,13 @@ As a result, the Mock Interview was properly recorded and successfully put onto 
 Github Pages is a new platform on which to use. Besides the fact that one had never used a platform similar to that, the other challenge is to navigate the platform in order to use it thoroughly. 
 
 ### Task
-More research was conducted to further understand the Github Pages platform while reviewing how others got on with using it. Videos, forums and sites that spoke about the pros and cons while suggessting how it can be used to one's benefit. 
+More research was conducted to further understand the Github Pages platform while reviewing how others got on with using it. Videos, forums and sites that spoke about the pros and cons while suggesting how it can be used to one's benefit. 
 
 ### Action
-After conducting lenthy research about how to use the platform, I then specified how I might use the platfomr in order to satisfy the assignment requirements, including the aforementioned reflections. I spent time learning how to use Markdown language to code specific documents like the CV and Mock Interview Video, as well as personlaise it to give it more character than a simply platform style. 
+After conducting lengthy research about how to use the platform, I then specified how I might use the platform in order to satisfy the assignment requirements, including the aforementioned reflections. I spent time learning how to use Markdown language to code specific documents like the CV and Mock Interview Video, as well as personalise it to give it more character than a simply platform style. 
 
 ### Result
-The platforms exceeded my expectation, that being it would be difficult to manage or hard to understand. Github Pages made it simple, once i understood it, to use their platform for my requierments, as well as experiment for creativity and personalisation. 
+The platforms exceeded my expectation, that being it would be difficult to manage or hard to understand. Github Pages made it simple, once i understood it, to use their platform for my requierements, as well as experiment for creativity and personalisation. 
 ***
 <h2 style="text-align:center">WIL PROJECTS: QAMS - QR CODE ATTENDANCE MANAGEMENT SYSTEM
   
