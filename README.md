@@ -47,8 +47,7 @@ After conducting lengthy research about how to use the platform, I then specifie
 The platforms exceeded my expectation, that being it would be difficult to manage or hard to understand. Github Pages made it simple, once i understood it, to use their platform for my requirements, as well as experiment for creativity and personalisation. 
 ***
 
-<h2 style="text-align:center">WIL PROJECTS: QAMS - QR CODE ATTENDANCE MANAGEMENT SYSTEM
-  
+## WIL PROJECTS: QAMS - QR CODE ATTENDANCE MANAGEMENT SYSTEM  
 ### AGILE TEAM CHARTER
 #### Reflection
 As one of the developers, some of my key responsibilities included the design & implementation of clean & maintainable code for the project. The challenging aspect of having a QR code being the main focus of the project, is the struggling of understanding how to design code and implement features around it, as well as learning about the design while completing the project. 
@@ -58,7 +57,7 @@ As one of the developers, some of my key responsibilities included the design & 
 The user stories were among the easier to create, seeing that the use for the QR code is relatively simple. For a lecturer, we took on creating the class session so a QR code is generated for students, 
 
 
-<h2 style="text-align:center">EVIDENCE OF LEARNING</h2>
+## EVIDENCE OF LEARNING
 
 ### CURRICULUM VITA
 <a href="https://BlindBoy123.github.io/folder/Ross_CV_Copy_.pdf" target="_blank">PDF.</a>
@@ -73,3 +72,7 @@ The user stories were among the easier to create, seeing that the use for the QR
 <video width="320" height="240" controls loop="" muted="" autoplay="">
   <source src="https://github.com/BlindBoy123/BlindBoy123.github.io/raw/refs/heads/main/Final%205%20final.mp4">
 </video>
+
+### AGILE TEAM CHARTER
+<a href="PRP_Team_Charter.docx" target="blank">DOCX</a>
+<object data="PRP_Team_Charter.docx" type="application/docx" width="100%" height="500ps">Unable to open DOCX</object>
