@@ -74,5 +74,5 @@ The user stories were among the easier to create, seeing that the use for the QR
 </video>
 
 ### AGILE TEAM CHARTER
-<a href="PRP_Team_Charter.docx" target="blank">DOCX</a>
-<object data="PRP_Team_Charter.docx" type="application/docx" width="100%" height="500ps">Unable to open DOCX</object>
+<a href="PRP_Team_Charter.pdf" target="blank">DOCX</a>
+<object data="PRP_Team_Charter.pdf" type="application/docx" width="100%" height="500ps">Unable to open DOCX</object>
